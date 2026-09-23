@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Alexander 👋
 
-<!--
-**stallev/stallev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Belarus, working independently on production web applications.
 
-Here are some ideas to get you started:
+**Core stack:** Next.js · React · TypeScript · PostgreSQL · AWS · Vercel
+**Also:** WordPress (custom theme development, ACF/SCF), PHP, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I take products from idea to production — architecture, frontend, backend, and deploy — often using AI-assisted, spec-driven development (Claude Code, Cursor) to move fast without cutting corners on code quality.
+
+**Selected work:**
+- [fitapp](https://github.com/stallev/fitapp) — fitness application (Next.js, TypeScript)
+- [wp_theme_boilerplate](https://github.com/stallev/wp_theme_boilerplate) — WordPress theme boilerplate built on ACF PRO
+- [mogspec.by](https://mogspec.by/) — crane & manipulator rental business site (WordPress, ACF)
+- [kanalizacia-brest.by](https://kanalizacia-brest.by/) — service business site (WordPress, ACF)
+
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/alexanderlevshenko) · Telegram: [@AlexLevshenko](https://t.me/AlexLevshenko)
