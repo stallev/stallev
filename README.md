@@ -7,6 +7,8 @@ Full-stack developer based in Belarus, working independently on production web a
 
 I take products from idea to production — architecture, frontend, backend, and deploy — often using AI-assisted, spec-driven development (Claude Code, Cursor) to move fast without cutting corners on code quality.
 
+Practicing spec-driven, AI-assisted development (Claude Code, Cursor): clear specification and architecture come first, AI accelerates implementation under review at every step — enabling fast delivery without sacrificing code quality or scalability.
+
 **Selected work:**
 - [fitapp](https://github.com/stallev/fitapp) — fitness application (Next.js, TypeScript)
 - [wp_theme_boilerplate](https://github.com/stallev/wp_theme_boilerplate) — WordPress theme boilerplate built on ACF PRO
