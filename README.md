@@ -1,6 +1,6 @@
 ### Hi, I'm Alexander 👋
 
-Full-stack developer based in Belarus, working independently on production web applications.
+Full-stack developer working independently on production web applications.
 
 **Core stack:** Next.js · React · TypeScript · PostgreSQL · AWS · Vercel
 **Also:** WordPress (custom theme development, ACF/SCF), PHP, MySQL
