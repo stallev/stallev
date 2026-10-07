@@ -12,7 +12,7 @@ Practicing spec-driven, AI-assisted development (Claude Code, Cursor): clear spe
 **Selected work:**
 - [fitapp](https://github.com/stallev/fitapp) — fitness application (Next.js, TypeScript)
 - [wp_theme_boilerplate](https://github.com/stallev/wp_theme_boilerplate) — WordPress theme boilerplate built on ACF PRO
-- [mogspec.by](https://mogspec.by/) — crane & manipulator rental business site (WordPress, ACF)
-- [kanalizacia-brest.by](https://kanalizacia-brest.by/) — service business site (WordPress, ACF)
+- [mogspec.by](https://mogspec.by/) — crane & manipulator rental business site (WordPress, SCF)
+- [kanalizacia-brest.by](https://kanalizacia-brest.by/) — service business site (WordPress, SCF)
 
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/alexanderlevshenko) · Telegram: [@AlexLevshenko](https://t.me/AlexLevshenko)
